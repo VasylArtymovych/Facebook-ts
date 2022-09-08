@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/users-ts-aplication/static/js/main.df911067.js",
+    "index.html": "/users-ts-aplication/index.html",
+    "main.df911067.js.map": "/users-ts-aplication/static/js/main.df911067.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df911067.js"
+  ]
+}
