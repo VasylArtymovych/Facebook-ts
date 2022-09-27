@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/users-ts-aplication/static/js/main.2fc2a9ad.js",
+    "main.js": "/users-ts-aplication/static/js/main.db134116.js",
     "index.html": "/users-ts-aplication/index.html",
-    "main.2fc2a9ad.js.map": "/users-ts-aplication/static/js/main.2fc2a9ad.js.map"
+    "main.db134116.js.map": "/users-ts-aplication/static/js/main.db134116.js.map"
   },
   "entrypoints": [
-    "static/js/main.2fc2a9ad.js"
+    "static/js/main.db134116.js"
   ]
 }
