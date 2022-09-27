@@ -10,8 +10,9 @@ export const GlobalStyles = createGlobalStyle`
   body {
     height: 100vh;
     margin: 0;
-    background-color: #12122D;
+    background-color: #f0f2f5;
     font-family: "Sora";
+    overflow: hidden;
   }
   h1,
   h2,
