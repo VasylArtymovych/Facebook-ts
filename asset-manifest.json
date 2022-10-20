@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/users-ts-aplication/static/js/main.db134116.js",
-    "index.html": "/users-ts-aplication/index.html",
-    "main.db134116.js.map": "/users-ts-aplication/static/js/main.db134116.js.map"
+    "main.js": "/Facebook-ts/static/js/main.b52b6d1c.js",
+    "index.html": "/Facebook-ts/index.html",
+    "main.b52b6d1c.js.map": "/Facebook-ts/static/js/main.b52b6d1c.js.map"
   },
   "entrypoints": [
-    "static/js/main.db134116.js"
+    "static/js/main.b52b6d1c.js"
   ]
 }
